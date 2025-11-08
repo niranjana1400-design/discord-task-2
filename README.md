@@ -1,1 +1,1 @@
-# discord-task-2
+# Restaurant website
